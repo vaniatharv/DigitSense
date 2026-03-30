@@ -58,6 +58,3 @@ python scripts/predict.py --input [input image path]
 ## Troubleshooting
 - Ensure you have the correct Python version installed.
 - Check for any missing packages and install them using `pip`.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
